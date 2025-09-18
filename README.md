@@ -12,7 +12,8 @@ Każdy folder odpowiada osobnemu projektowi, np. kokpit menedżerski, raporty z 
 - Power BI  
 - Tableau  
 - Microsoft Excel  
-- SQL  
+- SQL
+- AZURE
 
 Celem repozytorium jest pokazanie umiejętności w zakresie projektowania, budowy i prezentacji rozwiązań BI wspierających procesy decyzyjne.  
 
@@ -30,6 +31,7 @@ Each folder represents a separate project, such as management dashboards, report
 - Power BI  
 - Tableau  
 - Microsoft Excel  
-- SQL  
+- SQL
+- AZURE
 
 The goal of this repository is to demonstrate the ability to design, build, and present BI solutions supporting decision-making processes.  
